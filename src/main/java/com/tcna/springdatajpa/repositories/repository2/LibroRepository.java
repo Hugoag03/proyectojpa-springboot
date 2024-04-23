@@ -1,4 +1,4 @@
-package com.tcna.springdatajpa.repositories.repository1;
+package com.tcna.springdatajpa.repositories.repository2;
 
 
 import com.tcna.springdatajpa.entitites.entity2.Libro;

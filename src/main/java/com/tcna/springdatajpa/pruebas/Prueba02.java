@@ -2,8 +2,8 @@ package com.tcna.springdatajpa.pruebas;
 
 import com.tcna.springdatajpa.entitites.entity2.Autor;
 import com.tcna.springdatajpa.entitites.entity2.Libro;
-import com.tcna.springdatajpa.repositories.repository1.AutorRepository;
-import com.tcna.springdatajpa.repositories.repository1.LibroRepository;
+import com.tcna.springdatajpa.repositories.repository2.AutorRepository;
+import com.tcna.springdatajpa.repositories.repository2.LibroRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.stereotype.Component;
