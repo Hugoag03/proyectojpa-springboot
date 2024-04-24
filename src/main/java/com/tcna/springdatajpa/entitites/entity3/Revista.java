@@ -17,7 +17,7 @@ public class Revista {
 
     private String nombre;
 
-    @ManyToOne ()
+    @ManyToOne
     @JoinColumn(name = "editor_id")
     private Editor editor;
 

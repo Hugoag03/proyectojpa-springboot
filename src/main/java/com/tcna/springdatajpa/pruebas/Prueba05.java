@@ -9,8 +9,8 @@ import org.springframework.boot.CommandLineRunner;
 import org.springframework.stereotype.Component;
 import org.springframework.transaction.annotation.Transactional;
 
-@Component
-@Transactional
+//@Component
+//@Transactional
 public class Prueba05 implements CommandLineRunner {
 
     @Autowired
